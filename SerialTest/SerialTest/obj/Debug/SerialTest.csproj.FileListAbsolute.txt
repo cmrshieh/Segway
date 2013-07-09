@@ -1,0 +1,12 @@
+c:\users\jakob-bærbar\documents\visual studio 2012\Projects\SerialTest\SerialTest\bin\Debug\SerialTest.exe.config
+c:\users\jakob-bærbar\documents\visual studio 2012\Projects\SerialTest\SerialTest\bin\Debug\SerialTest.exe
+c:\users\jakob-bærbar\documents\visual studio 2012\Projects\SerialTest\SerialTest\bin\Debug\SerialTest.pdb
+c:\users\jakob-bærbar\documents\visual studio 2012\Projects\SerialTest\SerialTest\obj\Debug\SerialTest.csprojResolveAssemblyReference.cache
+c:\users\jakob-bærbar\documents\visual studio 2012\Projects\SerialTest\SerialTest\obj\Debug\SerialTest.exe
+c:\users\jakob-bærbar\documents\visual studio 2012\Projects\SerialTest\SerialTest\obj\Debug\SerialTest.pdb
+Y:\Dropbox\Skole\Bryrup\HTX 3.Z\Design og Produktion\Eksamen - Segway\Programmering\SerialTest\SerialTest\bin\Debug\SerialTest.exe.config
+Y:\Dropbox\Skole\Bryrup\HTX 3.Z\Design og Produktion\Eksamen - Segway\Programmering\SerialTest\SerialTest\obj\Debug\SerialTest.exe
+Y:\Dropbox\Skole\Bryrup\HTX 3.Z\Design og Produktion\Eksamen - Segway\Programmering\SerialTest\SerialTest\obj\Debug\SerialTest.pdb
+Y:\Dropbox\Skole\Bryrup\HTX 3.Z\Design og Produktion\Eksamen - Segway\Programmering\SerialTest\SerialTest\bin\Debug\SerialTest.exe
+Y:\Dropbox\Skole\Bryrup\HTX 3.Z\Design og Produktion\Eksamen - Segway\Programmering\SerialTest\SerialTest\bin\Debug\SerialTest.pdb
+Y:\Dropbox\Skole\Bryrup\HTX 3.Z\Design og Produktion\Eksamen - Segway\Programmering\SerialTest\SerialTest\obj\Debug\SerialTest.csprojResolveAssemblyReference.cache

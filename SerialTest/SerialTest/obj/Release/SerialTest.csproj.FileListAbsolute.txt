@@ -1,0 +1,6 @@
+Y:\Dropbox\Skole\Bryrup\HTX 3.Z\Design og Produktion\Eksamen - Segway\Programmering\SerialTest\SerialTest\bin\Release\SerialTest.exe.config
+Y:\Dropbox\Skole\Bryrup\HTX 3.Z\Design og Produktion\Eksamen - Segway\Programmering\SerialTest\SerialTest\bin\Release\SerialTest.exe
+Y:\Dropbox\Skole\Bryrup\HTX 3.Z\Design og Produktion\Eksamen - Segway\Programmering\SerialTest\SerialTest\bin\Release\SerialTest.pdb
+Y:\Dropbox\Skole\Bryrup\HTX 3.Z\Design og Produktion\Eksamen - Segway\Programmering\SerialTest\SerialTest\obj\Release\SerialTest.csprojResolveAssemblyReference.cache
+Y:\Dropbox\Skole\Bryrup\HTX 3.Z\Design og Produktion\Eksamen - Segway\Programmering\SerialTest\SerialTest\obj\Release\SerialTest.exe
+Y:\Dropbox\Skole\Bryrup\HTX 3.Z\Design og Produktion\Eksamen - Segway\Programmering\SerialTest\SerialTest\obj\Release\SerialTest.pdb

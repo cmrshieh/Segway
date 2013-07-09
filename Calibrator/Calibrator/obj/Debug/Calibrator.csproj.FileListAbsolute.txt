@@ -1,0 +1,8 @@
+Y:\Dropbox\Skole\Bryrup\HTX 3.Z\Design og Produktion\Eksamen - Segway\Programmering\Calibrator\Calibrator\bin\Debug\Calibrator.exe.config
+Y:\Dropbox\Skole\Bryrup\HTX 3.Z\Design og Produktion\Eksamen - Segway\Programmering\Calibrator\Calibrator\bin\Debug\Calibrator.exe
+Y:\Dropbox\Skole\Bryrup\HTX 3.Z\Design og Produktion\Eksamen - Segway\Programmering\Calibrator\Calibrator\bin\Debug\Calibrator.pdb
+Y:\Dropbox\Skole\Bryrup\HTX 3.Z\Design og Produktion\Eksamen - Segway\Programmering\Calibrator\Calibrator\obj\Debug\Calibrator.exe
+Y:\Dropbox\Skole\Bryrup\HTX 3.Z\Design og Produktion\Eksamen - Segway\Programmering\Calibrator\Calibrator\obj\Debug\Calibrator.pdb
+D:\Dropbox\Skole\Bryrup\HTX 3.Z\Design og Produktion\Eksamen - Segway\Programmering\Calibrator\Calibrator\bin\Debug\Calibrator.exe.config
+D:\Dropbox\Skole\Bryrup\HTX 3.Z\Design og Produktion\Eksamen - Segway\Programmering\Calibrator\Calibrator\obj\Debug\Calibrator.exe
+D:\Dropbox\Skole\Bryrup\HTX 3.Z\Design og Produktion\Eksamen - Segway\Programmering\Calibrator\Calibrator\obj\Debug\Calibrator.pdb
